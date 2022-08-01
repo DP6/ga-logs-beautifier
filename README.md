@@ -1,4 +1,4 @@
-# GA-beautifier-iOS
+# ga-logs-beautifier
 
 Esse código torna mais legíveis os logs dos eventos do Google Analytics fornecidos pelo Fiddler, convertendo-os em JSON.
 
