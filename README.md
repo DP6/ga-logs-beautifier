@@ -1,11 +1,11 @@
 # GA-beautifier-iOS
 
-This code makes the logs provided by Fiddler proxy of the Google Analytics events coming from iOS more readable, by converting it to JSON.
+Esse código torna mais legíveis os logs dos eventos do Google Analytics fornecidos pelo Fiddler, convertendo-os em JSON.
 
-To run it, create a file name as "in.txt" with the decrypted logs and in a terminal run the "beautifier.py" file:
+Para executá-lo, crie um arquivo chamado "in.txt" com os logs descriptografados e em um terminal execute o arquivo "beautifier.py":
 
 `python3 beautifier.py`
 
-The result will be saved in the file "out.json".
+O resultado será salvo no arquivo "out.json".
 
-Enjoy ;D
+Aproveite ;D
